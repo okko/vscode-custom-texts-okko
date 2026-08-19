@@ -1,0 +1,7 @@
+npx @vscode/vsce package
+code --install-extension vscode-custom-texts-okko-0.0.1.vsix
+
+# In VS Code go to >Configure Display language
+# Then select "English with Custom texts by Okko (x-okko)"
+# Restart VS Code
+

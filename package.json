@@ -1,0 +1,28 @@
+{
+  "name": "vscode-custom-texts-okko",
+  "displayName": "English with Custom texts",
+  "description": "English VS Code UI with custom texts.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Language Packs"
+  ],
+  "contributes": {
+    "localizations": [
+      {
+        "languageId": "x-okko",
+        "languageName": "English with custom texts by Okko",
+        "localizedLanguageName": "English with custom texts by Okko",
+        "translations": [
+          {
+            "id": "vscode",
+            "path": "./translations/main.i18n.json"
+          }
+        ]
+      }
+    ]
+  }
+}

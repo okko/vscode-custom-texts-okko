@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "contents": {
+    "vs/workbench/contrib/chat/common/chatModes": {
+      "agentDescription": "Mikä on problem?"
+    }
+  }
+}
